@@ -1,0 +1,23 @@
+/* 
+div{
+   
+    background-color: plum;
+    color: beige;
+     display: flex;
+     height: 60vh;
+     width: 60vw;
+     justify-content: space-around;
+     align-items: center;
+    font-size: x-large;
+    flex-flow: column wrap;
+
+
+} */
+button{
+    height: 9%;
+    width: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: rosybrown;
